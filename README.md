@@ -28,3 +28,4 @@
 **Getting Started: Preparing and building [Linux Guide] (https://github.com/PAC-ROM/android_vendor_pac/blob/pac-5.1/docs/PrepareForBuildLinux.md) or [Mac OS Guide] (https://github.com/PAC-ROM/android_vendor_pac/blob/pac-5.1/docs/PrepareForBuildMac.md)**
 
 **Device isn't supported? Not a problem! [Read] (https://github.com/PAC-ROM/android_vendor_pac/blob/pac-5.1/docs/BecomeAMaintainer.md)**
+repo init -u https://github.com/KYLEPROXX-DEVS/pac-rom.git -b pac-5.1 -g all,-notdefault,-darwin
